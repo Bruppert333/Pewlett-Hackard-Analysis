@@ -54,9 +54,10 @@ CREATE TABLE dept_emp(
 	Primary KEY (emp_no, dept_no)
 	);
 	
-select * from departments
-select * from employees
-select * from dept_manager
-select * from salaries
-select * from titles
-select * from dept_emp
+select * from departments;
+select * from employees;
+select * from dept_manager;
+select * from salaries;
+select * from titles;
+select * from dept_emp;
+commit ;
