@@ -97,7 +97,7 @@ SELECT DISTINCT ON (e.emp_no) e.emp_no,
 	de.from_date,
 	de.to_date,
 	t.title
-INTO mentorship_eligibility
+--INTO mentorship_eligibility
 FROM employees AS e
     JOIN dept_emp AS de
         ON (e.emp_no = de.emp_no)
@@ -106,3 +106,12 @@ FROM employees AS e
 WHERE de.to_date = '9999-01-01' 
 AND (e.birth_date BETWEEN '1965-01-01' and '1965-12-31')
 Order BY e.emp_no;
+
+-- Summary Questions
+SELECT distinct on (e.emp_no) e.emp_no,
+	e.first_name,
+	e.last_name,
+	ti.title
+FROM employees as e
+JOIN titles as ti
+ON e.emp_no= ti.emp_no;
