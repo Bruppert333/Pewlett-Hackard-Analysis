@@ -11,14 +11,14 @@ The purpose of this analysis was to first sort the data into a new table that sh
 
 ### Deliverable 1:
 
-![Deliverable_1](Deliverables/Deliverable_1).
-![Deliverable_1.1](Deliverables/Deliverable_1.1).
-![Deliverable_1.2](Deliverables/Deliverable_1.2).
-![Deliverable_1.3](Deliverables/Deliverable_1.3).
+![Deliverable_1](Deliverables/Deliverable_1.png).
+![Deliverable_1.1](Deliverables/Deliverable_1.1.png).
+![Deliverable_1.2](Deliverables/Deliverable_1.2.png).
+![Deliverable_1.3](Deliverables/Deliverable_1.3.png).
 
 ### Deliverable 2:
 
-![Deliverable_2](Deliverables/Deliverable_2).
+![Deliverable_2](Deliverables/Deliverable_2.png).
 
 ## Summary
 1. How many roles will need to be filled as the "Silver Tsunami" begins to make an impact?
